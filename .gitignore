@@ -9,8 +9,11 @@
 /CMakeCache.txt
 /CMakeFiles/
 /Makefile
+# CMake-specific files
+/cmake_install.cmake
 /CTestTestfile.cmake
-/*.o
+
+
 /*.obj
 /*.exe
 /*.out
