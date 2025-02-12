@@ -1,0 +1,20 @@
+{
+  "name": "nodevisiondb",
+  "version": "1.0.0",
+  "description": "NodevisionDB is a database system I am using ChatGPT to develop for use in Nodevision",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cmake-js": "^7.3.0",
+    "node-addon-api": "^8.3.0"
+  }
+}

@@ -1,11 +1,15 @@
 # Dependencies
 /_deps/
 
+# Node modules
+/node_modules/
+
 # Build artifacts
 /build/
 /CMakeCache.txt
 /CMakeFiles/
 /Makefile
+/CTestTestfile.cmake
 /*.o
 /*.obj
 /*.exe
