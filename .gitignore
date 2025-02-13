@@ -42,3 +42,4 @@ test_runner
 graphs/
 tables/
 objects/
+cmake_install.cmake

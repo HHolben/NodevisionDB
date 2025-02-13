@@ -1,7 +1,7 @@
 {
   "name": "nodevisiondb",
   "version": "1.0.0",
-  "description": "NodevisionDB is a database system I am using ChatGPT to develop for use in Nodevision",
+  "description": "NodevisionDB is a database system I am using ChatGPT to develop for use in Nodevision, Github Repository: https://github.com/HHolben/NodevisionDB",
   "main": "index.js",
   "directories": {
     "lib": "lib",
