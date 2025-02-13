@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+
+# CMake-specific files
+cmake_install.cmake
+CTestTestfile.cmake
+
+# Compiled binaries and objects
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Editor/OS-specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# GTest build files
+Testing/
+test_runner
+
+# NodevisionDB data files (if they shouldn't be published)
+graphs/
+tables/
+objects/
